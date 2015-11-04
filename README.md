@@ -2,7 +2,7 @@
 SYSTEME DE NEWS BASIQUE EN POO PHP
 ----------------------------------
 
-Cette application a été réalisé à l'aide du cours "Programmez en orienté objet en PHP" de OpenClassrooms
+Cette application a été réalisé à l'aide du cours "Programmez en orienté objet en PHP" de OpenClassrooms.
 
 
 Cahier des charges
@@ -20,3 +20,11 @@ Ce que nous allons réaliser est très simple, à savoir un système de news bas
 
 Pour réaliser cela, nous allons avoir besoin de créer une table news
 
+
+Installation
+------------
+
+1) Télécharger l'application dans votre serveur web (XAMPP, WAMP, MAMP, ...)
+2) Créez une base de données nomée "news"
+3) Importez la structure de la table news (bdd/structure.sql) dans la base de données créée ci-dessus.
+4) Enjoy !
